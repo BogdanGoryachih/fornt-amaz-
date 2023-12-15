@@ -1,0 +1,14 @@
+{
+  "../src/provide/AuthProvider.tsx -> ./Check-role": {
+    "id": "../src/provide/AuthProvider.tsx -> ./Check-role",
+    "files": [
+      "static/chunks/src_provide_Check-role_tsx.js"
+    ]
+  },
+  "../src/ui/catalog/ProductItem.tsx -> ./FavoriteButton": {
+    "id": "../src/ui/catalog/ProductItem.tsx -> ./FavoriteButton",
+    "files": [
+      "static/chunks/src_ui_catalog_FavoriteButton_tsx.js"
+    ]
+  }
+}
